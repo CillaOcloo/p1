@@ -1,0 +1,52 @@
+.navbar-brand img{
+  	width: 100px;
+  	height: 40px;
+  }
+  .container-fluid {
+    height: 70px;
+    color: #8a6d3b;
+    border:none;
+    background-color: #372d5e;
+    margin: auto;
+  }
+  .img-responsive{
+    display: block;
+    width: 500%;
+    padding: 10px;
+}
+.sales-content{
+  font-family: sans-serif;
+  color: #8a6d3b;
+  font-size: 16px;
+  text-align: justify;
+}
+.repair-content{
+   font-family: sans-serif;
+  color: #8a6d3b;
+  font-size: 16px;
+  text-align: justify;
+
+}
+.wash-content{
+   font-family: sans-serif;
+  color: #8a6d3b;
+  font-size: 16px;
+  text-align: justify;
+
+}
+.rental-content{
+   font-family: sans-serif;
+  color: #8a6d3b;
+  font-size: 16px;
+  text-align: justify;
+
+}
+body{
+  background-color: #F8F8FF;
+}
+.footer{
+  background-color: #372d5e;
+  border: none;
+  margin: auto;
+  padding: 10px;
+}
